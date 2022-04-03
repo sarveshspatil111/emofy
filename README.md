@@ -1,2 +1,2 @@
 # emofy
-Determine emotion from text
+A web app that determines emotion based on text.
